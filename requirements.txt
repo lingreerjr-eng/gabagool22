@@ -1,0 +1,15 @@
+# Core dependencies
+requests==2.31.0
+python-dotenv==1.0.1
+web3>=5.31.3
+py-clob-client>=0.1.0
+halo
+colorlog
+
+# YES/NO arbitrage strategy dependencies
+aiohttp>=3.9.0
+eth-account>=0.10.0
+
+# Testing (optional)
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
